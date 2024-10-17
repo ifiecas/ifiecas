@@ -5,7 +5,6 @@ I hail from the tropical country, Philippines. I’ve had the exciting opportuni
 
 * 🌍  I'm based in Melbourne, Australia
 * 🖥️  See my portfolio at [My Projects](http://ifiecas.com/projects/)
-* ✉️  You can contact me at [fiecasivy@gmail.com](mailto:fiecasivy@gmail.com)
 * 🧠  I'm learning Generative AI, specifically Stable Diffusion
 * 🤝  I'm open to collaborating on Kaggle Projects
 
