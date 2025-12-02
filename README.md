@@ -5,8 +5,6 @@ A collection of things I’ve built – all grounded in my design, writing, and 
 
 I draw inspiration from daily life and conversations.
 
-I’m constantly learning as I go, experimenting, making mistakes, and figuring out how to build things that are actually useful.
-
 Endlessly curious ~~
 
 * 🌍  I'm based in Melbourne, Australia
