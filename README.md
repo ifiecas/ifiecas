@@ -10,5 +10,4 @@ I’m constantly learning as I go, experimenting, making mistakes, and figuring 
 P.S. Not an expert, just endlessly curious.
 
 * 🌍  I'm based in Melbourne, Australia
-* 🖥️  See my portfolio at [My Projects](http://ifiecas.com/projects/)
 
